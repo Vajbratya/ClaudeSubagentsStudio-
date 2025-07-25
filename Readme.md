@@ -372,6 +372,5 @@ MIT License - feel free to use in personal and commercial projects.
 
 **Built with ❤️ by [@vajbratya](https://github.com/vajbratya)**
 
-[Report Bug](https://github.com/vajbratya/autonomous-studio/issues) • [Request Feature](https://github.com/vajbratya/autonomous-studio/issues) • [Join Discord](https://discord.gg/autonomous-studio)
-
+[Report Bug](https://github.com/vajbratya/autonomous-studio/issues) • [Request Feature](https://github.com/vajbratya/autonomous-studio/issues) •
 </div>
