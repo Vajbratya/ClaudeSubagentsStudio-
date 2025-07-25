@@ -40,7 +40,7 @@ Vajbratya's Autonomous Studio transforms Claude Code into a comprehensive AI dev
 
 ```bash
 # Download and run the installer
-curl -O https://raw.githubusercontent.com/vajbratya/autonomous-studio/main/vajbratyas.sh
+curl -O https://raw.githubusercontent.com/Vajbratya/ClaudeSubagentsStudio-/main/vajbratyas.sh
 chmod +x vajbratyas.sh
 ./vajbratyas.sh
 ```
